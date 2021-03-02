@@ -1,0 +1,11 @@
+mensajes_app.iml
+.idea/.gitignore
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/libraries/mysql_mysql_connector_java_8_0_23.xml
+lib/mysql-connector-java-8.0.23.jar
+lib/protobuf-java-3.11.4.jar
+target/classes/Conexion.class
+target/classes/inicio.class
